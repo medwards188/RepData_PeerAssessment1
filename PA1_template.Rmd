@@ -75,7 +75,7 @@ mean(dailysteps$steps)
 median(dailysteps$steps)
 ```
 
-The impact of imputing missing data on the estimates of the total daily number of steps seems LOW, not a huge difference.
+The impact of imputing missing data on the estimates of the total daily number of steps seems LOW, the difference is marginal.
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
